@@ -20,3 +20,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231d39ff?style=for-the-badge&logo=typescript&logoColor=%23ffffff&logoSize=auto&labelColor=%231d39ff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
