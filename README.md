@@ -4,8 +4,8 @@
 
 <div>
   <a href=""></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fshenrique6&theme=dark&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ze55&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=fshenrique6&theme=dark&show_icons=true">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fshenrique6&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 🚀 Skills
